@@ -1,4 +1,7 @@
 # Workbench
+
+![photo of workbench](Photos/IMG_20151204_215732.jpg)
+
 CAD drawings for my electronics workbench (big wooden thing, not software)
 
 Power Hitch is a shelf pinched between a table and a wall.  It is just
